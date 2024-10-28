@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@langchain/community": "^0.3.10",
+    "@langchain/core": "^0.3.15",
+    "@langchain/groq": "^0.1.2",
+    "@langchain/langgraph": "^0.2.18",
+    "@langchain/openai": "^0.3.11",
+    "@supabase/supabase-js": "^2.45.6",
+    "axios": "^1.7.7",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.3.4",
+    "ngrok": "^5.0.0-beta.2",
+    "nodemon": "^3.1.7"
+  },
+  "name": "langchain-interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
