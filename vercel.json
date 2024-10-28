@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/discord.js": {
+      "runtime": "nodejs16.x" // or the version you're using
+    }
+  }
+}
